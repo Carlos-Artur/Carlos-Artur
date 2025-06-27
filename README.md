@@ -11,8 +11,8 @@ Sou estudante de programação, explorando diferentes áreas da tecnologia com c
 
 ## 🧭 Explorando Atualmente
 
-- 🧪 Praticando Git, GitHub e versionamento de código.
--🧠 Aprofundando em Projeto de Software e Paradigmas de Linguagem de Programação.
+- 🧪 Praticando Git, GitHub e versionamento de código
+- 🧠 Aprofundando em Projeto de Software e Paradigmas de Linguagem de Programação
 
 ---
 
