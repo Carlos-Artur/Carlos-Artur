@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Carlos!
 
-<!--
-**Carlos-Artur/Carlos-Artur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de programação, explorando diferentes áreas da tecnologia com curiosidade e dedicação.
 
-Here are some ideas to get you started:
+- 💡 Integrante de projeto de extensão e pesquisa
+- 🤝 Voluntário no IEEE SIGHT UFCG
+- 🔧 Atualmente estudando: Desenvolvimento Full-Stack
+- 🌐 Explorando conceitos multidisciplinares em tecnologia e inovação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Tecnologias | Link |
+|--------|-------------|------|
+| Simulador RISC | Python | [Ver repositório](link) |
+
+
+---
+
+## 🧭 Explorando Atualmente
+
+- 🧪 Praticando Git, GitHub e versionamento de código
+-🧠 Aprofundando em Projeto de Software e Paradigmas de Linguagem de Programação
+
+---
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/carlos-artur-438557264)
+- [GitHub](https://github.com/SEU_USUARIO)
+
+
