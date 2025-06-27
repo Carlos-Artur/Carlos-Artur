@@ -9,15 +9,6 @@ Sou estudante de programação, explorando diferentes áreas da tecnologia com c
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| Projeto | Tecnologias | Link |
-|--------|-------------|------|
-| Simulador RISC | Python | [Ver repositório](link) |
-
-
----
-
 ## 🧭 Explorando Atualmente
 
 - 🧪 Praticando Git, GitHub e versionamento de código
